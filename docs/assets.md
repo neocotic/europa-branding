@@ -12,8 +12,11 @@ TODO: Introduction to banners and their usage
 | Class | Dimensions | Format | Image |
 | ----- | ---------- | ------ | ----- |
 | Europa | 250x100 | image/svg+xml | [![europa-banner.svg](https://cdn.rawgit.com/Skelp/europa-branding/master/assets/banner/europa/europa-banner.svg)](https://github.com/Skelp/europa-branding/blob/master/assets/banner/europa/europa-banner.svg) |
-| Europa Core | 370.5 100 | image/svg+xml | [![europa-core-banner.svg](https://cdn.rawgit.com/Skelp/europa-branding/master/assets/banner/europa-core/europa-core-banner.svg)](https://github.com/Skelp/europa-branding/blob/master/assets/banner/europa-core/europa-core-banner.svg) |
-| Node Europa | 376.5 100 | image/svg+xml | [![node-europa-banner.svg](https://cdn.rawgit.com/Skelp/europa-branding/master/assets/banner/node-europa/node-europa-banner.svg)](https://github.com/Skelp/europa-branding/blob/master/assets/banner/node-europa/node-europa-banner.svg) |
+| Europa | 320x128 | image/png | [![europa-banner.png](https://cdn.rawgit.com/Skelp/europa-branding/master/assets/banner/europa/europa-banner.png)](https://github.com/Skelp/europa-branding/blob/master/assets/banner/europa/europa-banner.png) |
+| Europa Core | 370.5x100 | image/svg+xml | [![europa-core-banner.svg](https://cdn.rawgit.com/Skelp/europa-branding/master/assets/banner/europa-core/europa-core-banner.svg)](https://github.com/Skelp/europa-branding/blob/master/assets/banner/europa-core/europa-core-banner.svg) |
+| Europa Core | 473x128 | image/png | [![europa-core-banner.png](https://cdn.rawgit.com/Skelp/europa-branding/master/assets/banner/europa-core/europa-core-banner.png)](https://github.com/Skelp/europa-branding/blob/master/assets/banner/europa-core/europa-core-banner.png) |
+| Node Europa | 376.5x100 | image/svg+xml | [![node-europa-banner.svg](https://cdn.rawgit.com/Skelp/europa-branding/master/assets/banner/node-europa/node-europa-banner.svg)](https://github.com/Skelp/europa-branding/blob/master/assets/banner/node-europa/node-europa-banner.svg) |
+| Node Europa | 480x128 | image/png | [![node-europa-banner.png](https://cdn.rawgit.com/Skelp/europa-branding/master/assets/banner/node-europa/node-europa-banner.png)](https://github.com/Skelp/europa-branding/blob/master/assets/banner/node-europa/node-europa-banner.png) |
 
 ## Logos
 
