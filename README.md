@@ -12,7 +12,8 @@ This repository contains branding assets and guidelines for [Europa](https://git
 
 ## License
 
-See [LICENSE.md](https://github.com/Skelp/europa-branding/raw/master/LICENSE.md) for more information on our MIT license.
+See [LICENSE.md](https://github.com/Skelp/europa-branding/raw/master/LICENSE.md) for more information on our MIT
+license.
 
 © 2016 [Skelp](https://skelp.io/)
 <img align="right" width="16" height="16" src="https://cdn.rawgit.com/Skelp/skelp-branding/master/assets/logo/base/skelp-logo-16x16.png">
