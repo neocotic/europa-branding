@@ -1,0 +1,38 @@
+{
+  "name": "@notninja/europa-branding",
+  "version": "0.1.0",
+  "description": "Branding assets and guidelines for Europa",
+  "homepage": "https://github.com/NotNinja/europa-branding",
+  "bugs": {
+    "url": "https://github.com/NotNinja/europa-branding/issues"
+  },
+  "author": {
+    "name": "Alasdair Mercer",
+    "email": "mercer.alasdair@gmail.com",
+    "url": "https://not.ninja"
+  },
+  "license": "MIT",
+  "keywords": [
+    "europa",
+    "branding"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NotNinja/europa-branding.git"
+  },
+  "devDependencies": {
+    "async": "^2.3.0",
+    "del": "^2.2.2",
+    "glob": "^7.1.1",
+    "png-to-ico": "^1.0.2",
+    "svg2png": "^4.1.1",
+    "svgo": "^0.7.2"
+  },
+  "scripts": {
+    "start": "node scripts/build"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "private": true
+}
