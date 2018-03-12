@@ -43,4 +43,4 @@ If successful, it should end with "Done!".
 
 ---
 
-[![Copyright !ninja](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fcopyright%2Fbase%2Fnot-ninja-copyright-372x50.png)](https://not.ninja)
+[![Copyright !ninja](https://cdn.rawgit.com/NotNinja/branding/master/assets/copyright/base/not-ninja-copyright-372x50.png)](https://not.ninja)
