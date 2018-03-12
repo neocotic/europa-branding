@@ -222,7 +222,7 @@
           "sortBy": [ "<%= files[0].file.type %>", "asc" ],
           "titles": {
             "europa-banner.svg": "Europa",
-            "europe-core-banner.svg": "Europa Core",
+            "europa-core-banner.svg": "Europa Core",
             "europa-test-banner.svg": "Europa Test",
             "node-europa-banner.svg": "Node Europa"
           }

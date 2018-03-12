@@ -16,6 +16,15 @@ This document contains references to all assets that are available to be used to
 | image/png | [250x100](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa%2Feuropa-banner-250x100.png) [500x200](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa%2Feuropa-banner-500x200.png) [1000x400](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa%2Feuropa-banner-1000x400.png) |  |
 | image/svg+xml | [250x100](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa%2Feuropa-banner.svg) | [europa-banner.min.svg](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa%2Feuropa-banner.min.svg) |
 
+### Europa Core
+
+[![europa-core-banner.svg](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner.svg)](https://github.com/NotNinja/europa-branding/tree/master/assets%2Fbanner%2Feuropa-core)
+
+| Type | Sizes | Optimized |
+| ---- | ----- | --------- |
+| image/png | [371x100](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner-371x100.png) [742x200](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner-742x200.png) [1484x400](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner-1484x400.png) |  |
+| image/svg+xml | [371x100](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner.svg) | [europa-core-banner.min.svg](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner.min.svg) |
+
 ### Europa Test
 
 [![europa-test-banner.svg](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-test%2Feuropa-test-banner.svg)](https://github.com/NotNinja/europa-branding/tree/master/assets%2Fbanner%2Feuropa-test)
@@ -33,15 +42,6 @@ This document contains references to all assets that are available to be used to
 | ---- | ----- | --------- |
 | image/png | [377x100](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Fnode-europa%2Fnode-europa-banner-377x100.png) [754x200](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Fnode-europa%2Fnode-europa-banner-754x200.png) [1508x400](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Fnode-europa%2Fnode-europa-banner-1508x400.png) |  |
 | image/svg+xml | [377x100](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Fnode-europa%2Fnode-europa-banner.svg) | [node-europa-banner.min.svg](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Fnode-europa%2Fnode-europa-banner.min.svg) |
-
-### europa-core-banner.svg
-
-[![europa-core-banner.svg](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner.svg)](https://github.com/NotNinja/europa-branding/tree/master/assets%2Fbanner%2Feuropa-core)
-
-| Type | Sizes | Optimized |
-| ---- | ----- | --------- |
-| image/png | [371x100](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner-371x100.png) [742x200](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner-742x200.png) [1484x400](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner-1484x400.png) |  |
-| image/svg+xml | [371x100](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner.svg) | [europa-core-banner.min.svg](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fbanner%2Feuropa-core%2Feuropa-core-banner.min.svg) |
 
 ## Logos
 
