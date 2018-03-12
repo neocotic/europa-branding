@@ -1,6 +1,5 @@
 {
   "name": "@notninja/europa-branding",
-  "version": "0.1.0",
   "description": "Branding assets and guidelines for Europa",
   "homepage": "https://github.com/NotNinja/europa-branding",
   "bugs": {
@@ -20,19 +19,14 @@
     "type": "git",
     "url": "https://github.com/NotNinja/europa-branding.git"
   },
-  "devDependencies": {
-    "async": "^2.3.0",
-    "del": "^2.2.2",
-    "glob": "^7.1.1",
-    "png-to-ico": "^1.0.2",
-    "svg2png": "^4.1.1",
-    "svgo": "^0.7.2"
+  "dependencies": {
+    "brander": "^0.1.8"
   },
   "scripts": {
-    "start": "node scripts/build"
+    "start": "brander"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=8"
   },
   "private": true
 }

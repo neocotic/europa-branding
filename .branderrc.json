@@ -1,0 +1,361 @@
+{
+  "name": "europa",
+  "title": "Europa",
+  "email": "contact@not.ninja",
+  "homepage": "https://github.com/NotNinja/europa",
+  "tasks": [
+    {
+      "task": "clean",
+      "input": {
+        "files": [
+          "logo/**/*.ico",
+          "@(banner|logo)/**/*.min.svg",
+          "@(banner|logo)/**/*.png"
+        ]
+      }
+    },
+    {
+      "task": "convert",
+      "input": {
+        "files": "banner/europa/**/*.svg"
+      },
+      "output": {
+        "format": "png"
+      },
+      "options": {
+        "sizes": [
+          "250x100",
+          "500x200",
+          "1000x400"
+        ]
+      }
+    },
+    {
+      "task": "convert",
+      "input": {
+        "files": "banner/europa-core/**/*.svg"
+      },
+      "output": {
+        "format": "png"
+      },
+      "options": {
+        "sizes": [
+          "371x100",
+          "742x200",
+          "1484x400"
+        ]
+      }
+    },
+    {
+      "task": "convert",
+      "input": {
+        "files": "banner/europa-test/**/*.svg"
+      },
+      "output": {
+        "format": "png"
+      },
+      "options": {
+        "sizes": [
+          "355x100",
+          "710x200",
+          "1420x400"
+        ]
+      }
+    },
+    {
+      "task": "convert",
+      "input": {
+        "files": "banner/node-europa/**/*.svg"
+      },
+      "output": {
+        "format": "png"
+      },
+      "options": {
+        "sizes": [
+          "377x100",
+          "754x200",
+          "1508x400"
+        ]
+      }
+    },
+    {
+      "task": "convert",
+      "input": {
+        "files": "logo/**/*.svg"
+      },
+      "output": {
+        "format": "png"
+      },
+      "options": {
+        "sizes": [
+          16,
+          32,
+          36,
+          48,
+          64,
+          70,
+          72,
+          76,
+          96,
+          120,
+          144,
+          150,
+          152,
+          167,
+          168,
+          180,
+          192,
+          250,
+          256,
+          300,
+          310,
+          512,
+          2800
+        ]
+      }
+    },
+    {
+      "task": "package",
+      "input": {
+        "files": "logo/**/*-256x256.png"
+      },
+      "output": {
+        "files": "<%= file.base(true).replace('-256x256', '') %>.ico"
+      },
+      "options": {
+        "groupBy": "<%= file.dir %>",
+        "sizes": [
+          16,
+          32,
+          48,
+          256
+        ]
+      }
+    },
+    {
+      "task": "optimize",
+      "input": {
+        "files": "@(banner|logo)/**/*.svg"
+      }
+    }
+  ],
+  "docs": [
+    {
+      "doc": "README.md",
+      "dir": ".",
+      "sections": [
+        {
+          "title": "Europa branding",
+          "type": "template",
+          "content": "This repository contains branding assets and guidelines for [<%= config.title %>](<%= config.homepage %>)."
+        },
+        {
+          "type": "toc",
+          "docs": [
+            "guidelines.md",
+            "colors.md",
+            "assets.md"
+          ],
+          "minDepth": 0,
+          "maxDepth": 1
+        },
+        {
+          "title": "Using Assets",
+          "type": "template",
+          "content": [
+            "All assets are intended for use by <%= config.title %>, however, it is a fully open source project so, if you wish to use our assets, you are welcome to. We would prefer that you let us know though.",
+            "",
+            "The best way to get in touch with us is via [email](mailto:<%= config.email %>) or on [slack](https://slack.not.ninja)."
+          ]
+        },
+        {
+          "title": "Generating Assets",
+          "type": "template",
+          "content": [
+            "The assets and documentation within this repository are generated using [Brander](https://github.com/NotNinja/brander) based on our `.branderrc.json` configuration file.",
+            "",
+            "To get started, first clone the repository:",
+            "",
+            "``` bash",
+            "$ git clone <%= config.repository.url %>",
+            "$ cd <%= config.repository.name %>",
+            "```",
+            "",
+            "Then install all of the necessary dependencies:",
+            "",
+            "``` bash",
+            "<%= config.repository.name %>$ npm install",
+            "```",
+            "",
+            "Now you can easily generate all assets and documentation after making whatever changes you want to the configuration file or asset sources:",
+            "",
+            "``` bash",
+            "<%= config.repository.name %>$ npm start",
+            "```",
+            "",
+            "If successful, it should end with \"Done!\"."
+          ]
+        }
+      ]
+    },
+    {
+      "doc": "assets.md",
+      "title": "Assets",
+      "sections": [
+        {
+          "type": "template",
+          "content": "This document contains references to all assets that are available to be used to represent the <%= config.title %> brand across all spaces."
+        },
+        {
+          "type": "toc",
+          "maxDepth": 1
+        },
+        {
+          "title": "Banners",
+          "type": "asset-feature",
+          "dir": "banner/**/*/",
+          "preview": "!(*.min).svg",
+          "files": [
+            "*.png",
+            [ "!(*.min).svg", "*.min.svg" ]
+          ],
+          "sortBy": [ "<%= files[0].file.type %>", "asc" ],
+          "titles": {
+            "europa-banner.svg": "Europa",
+            "europe-core-banner.svg": "Europa Core",
+            "europa-test-banner.svg": "Europa Test",
+            "node-europa-banner.svg": "Node Europa"
+          }
+        },
+        {
+          "title": "Logos",
+          "type": "asset-feature",
+          "dir": "logo/**/*/",
+          "preview": "!(*.min).svg",
+          "files": [
+            "*.ico",
+            "*.png",
+            [ "!(*.min).svg", "*.min.svg" ]
+          ],
+          "sortBy": [ "<%= files[0].file.type %>", "asc" ],
+          "titles": {
+            "europa-logo.svg": "Europa"
+          }
+        }
+      ]
+    },
+    {
+      "doc": "colors.md",
+      "title": "Colors",
+      "sections": [
+        {
+          "type": "template",
+          "content": "This document contains the colors that are to be used when representing the <%= config.title %> brand."
+        },
+        { "type": "toc" },
+        {
+          "title": "Palette",
+          "type": "template",
+          "content": "The following colors are recommended to be used:"
+        },
+        {
+          "type": "color-table",
+          "colors": [
+            {
+              "name": "Black",
+              "format": "hex",
+              "value": "#000000"
+            },
+            {
+              "name": "White",
+              "format": "hex",
+              "value": "#FFFFFF"
+            },
+            {
+              "name": "Primary",
+              "format": "hex",
+              "value": "#4B0082"
+            },
+            {
+              "name": "Secondary",
+              "format": "hex",
+              "value": "#444444"
+            }
+          ],
+          "columns": [
+            {
+              "header": "Color",
+              "content": "<%= color.name %>"
+            },
+            {
+              "header": "Hex",
+              "content": "`<%= color.hex %>`"
+            },
+            {
+              "header": "RGB",
+              "content": "<%= color.rgb.join(', ') %>"
+            },
+            {
+              "header": "CMYK",
+              "content": "<%= color.cmyk.join(', ') %>"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "doc": "guidelines.md",
+      "title": "Guidelines",
+      "sections": [
+        {
+          "type": "template",
+          "content": "This document contains guidelines to be followed when representing the <%= config.title %> brand."
+        },
+        { "type": "toc" },
+        {
+          "type": "template",
+          "title": "Fonts",
+          "content": "The following fonts are recommended to be used when presenting text-based information, anywhere from websites to written letters:"
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Type",
+            "Primary Font",
+            "Fallback Fonts"
+          ],
+          "rows": [
+            [
+              "Heading",
+              "[Orbitron](https://fonts.google.com/specimen/Orbitron)",
+              "sans-serif"
+            ],
+            [
+              "Body",
+              "TODO",
+              "sans-serif"
+            ],
+            [
+              "Monospace",
+              "TODO",
+              "monospace"
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "options": {
+    "lineSeparator": "lf",
+    "docs": {
+      "footer": {
+        "type": "template",
+        "content": [
+          "---",
+          "",
+          "[![Copyright !ninja](<%= config.assetURL([ config.assetsDir, 'copyright/base/not-ninja-copyright-372x50.png' ]) %>)](https://not.ninja)"
+        ]
+      }
+    }
+  }
+}

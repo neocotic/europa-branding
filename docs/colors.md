@@ -1,12 +1,12 @@
 # Colors
 
-TODO: Introduction to colors
+This document contains the colors that are to be used when representing the Europa brand.
 
-1. [Palette](#palette)
+1. [Palette](https://github.com/NotNinja/europa-branding/tree/master/docs%2Fcolors.md#palette)
 
 ## Palette
 
-TODO: Introduction to palette
+The following colors are recommended to be used:
 
 | Color | Hex | RGB | CMYK |
 | ----- | --- | --- | ---- |
@@ -17,4 +17,4 @@ TODO: Introduction to palette
 
 ---
 
-[![Copyright !ninja](https://cdn.rawgit.com/NotNinja/branding/master/assets/copyright/base/not-ninja-copyright-372x50.png)](https://not.ninja)
+[![Copyright !ninja](https://cdn.rawgit.com/NotNinja/europa-branding/master/assets%2Fcopyright%2Fbase%2Fnot-ninja-copyright-372x50.png)](https://not.ninja)
