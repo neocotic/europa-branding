@@ -1,32 +1,41 @@
 {
-  "name": "@notninja/europa-branding",
+  "name": "europa-branding",
+  "private": true,
   "description": "Branding assets and guidelines for Europa",
-  "homepage": "https://github.com/NotNinja/europa-branding",
-  "bugs": {
-    "url": "https://github.com/NotNinja/europa-branding/issues"
-  },
-  "author": {
-    "name": "Alasdair Mercer",
-    "email": "mercer.alasdair@gmail.com",
-    "url": "https://not.ninja"
-  },
-  "license": "MIT",
   "keywords": [
     "europa",
     "branding"
   ],
+  "homepage": "https://github.com/neocotic/europa-branding",
+  "bugs": {
+    "url": "https://github.com/neocotic/europa-branding/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "neocotic",
+    "url": "https://github.com/neocotic"
+  },
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://github.com/sponsors/neocotic"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/neocotic"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/NotNinja/europa-branding.git"
+    "url": "https://github.com/neocotic/europa-branding.git"
   },
-  "dependencies": {
-    "brander": "^0.1.8"
+  "devDependencies": {
+    "brander": "^0.2.3"
   },
   "scripts": {
-    "start": "brander"
+    "build": "brander"
   },
   "engines": {
-    "node": ">=8"
-  },
-  "private": true
+    "node": "^12.20.0 || >=14"
+  }
 }

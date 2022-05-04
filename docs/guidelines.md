@@ -2,7 +2,7 @@
 
 This document contains guidelines to be followed when representing the Europa brand.
 
-1. [Fonts](https://github.com/NotNinja/europa-branding/tree/master/docs%2Fguidelines.md#fonts)
+1. [Fonts](https://github.com/neocotic/europa-branding/tree/master/docs/guidelines.md#fonts)
 
 ## Fonts
 
@@ -16,4 +16,4 @@ The following fonts are recommended to be used when presenting text-based inform
 
 ---
 
-[![Copyright !ninja](https://cdn.rawgit.com/NotNinja/branding/master/assets/copyright/base/not-ninja-copyright-372x50.png)](https://not.ninja)
+Copyright © 2022 neocotic

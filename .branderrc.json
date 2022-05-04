@@ -1,8 +1,7 @@
 {
   "name": "europa",
   "title": "Europa",
-  "email": "contact@not.ninja",
-  "homepage": "https://github.com/NotNinja/europa",
+  "homepage": "https://github.com/neocotic/europa",
   "tasks": [
     {
       "task": "clean",
@@ -145,7 +144,7 @@
       "dir": ".",
       "sections": [
         {
-          "title": "Europa branding",
+          "title": "Europa Branding",
           "type": "template",
           "content": "This repository contains branding assets and guidelines for [<%= config.title %>](<%= config.homepage %>)."
         },
@@ -162,17 +161,13 @@
         {
           "title": "Using Assets",
           "type": "template",
-          "content": [
-            "All assets are intended for use by <%= config.title %>, however, it is a fully open source project so, if you wish to use our assets, you are welcome to. We would prefer that you let us know though.",
-            "",
-            "The best way to get in touch with us is via [email](mailto:<%= config.email %>) or on [slack](https://slack.not.ninja)."
-          ]
+          "content": "All assets are intended for use by <%= config.title %>, however, it is a fully open source project so, if you wish to use our assets, you are welcome to. We would prefer that you let us know though."
         },
         {
           "title": "Generating Assets",
           "type": "template",
           "content": [
-            "The assets and documentation within this repository are generated using [Brander](https://github.com/NotNinja/brander) based on our `.branderrc.json` configuration file.",
+            "The assets and documentation within this repository are generated using [Brander](https://github.com/neocotic/brander) based on our `.branderrc.json` configuration file.",
             "",
             "To get started, first clone the repository:",
             "",
@@ -190,7 +185,7 @@
             "Now you can easily generate all assets and documentation after making whatever changes you want to the configuration file or asset sources:",
             "",
             "``` bash",
-            "<%= config.repository.name %>$ npm start",
+            "<%= config.repository.name %>$ npm run build",
             "```",
             "",
             "If successful, it should end with \"Done!\"."
@@ -353,7 +348,7 @@
         "content": [
           "---",
           "",
-          "[![Copyright !ninja](https://cdn.rawgit.com/NotNinja/branding/master/assets/copyright/base/not-ninja-copyright-372x50.png)](https://not.ninja)"
+          "Copyright © <%= new Date().getFullYear() %> neocotic"
         ]
       }
     }

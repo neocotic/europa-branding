@@ -2,7 +2,7 @@
 
 This document contains the colors that are to be used when representing the Europa brand.
 
-1. [Palette](https://github.com/NotNinja/europa-branding/tree/master/docs%2Fcolors.md#palette)
+1. [Palette](https://github.com/neocotic/europa-branding/tree/master/docs/colors.md#palette)
 
 ## Palette
 
@@ -17,4 +17,4 @@ The following colors are recommended to be used:
 
 ---
 
-[![Copyright !ninja](https://cdn.rawgit.com/NotNinja/branding/master/assets/copyright/base/not-ninja-copyright-372x50.png)](https://not.ninja)
+Copyright © 2022 neocotic
