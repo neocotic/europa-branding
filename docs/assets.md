@@ -16,6 +16,15 @@ This document contains references to all assets that are available to be used to
 | image/png | [250x100]() [500x200]() [1000x400]() |  |
 | image/svg+xml | [250x100]() | [europa-banner.min.svg]() |
 
+### Europa Build
+
+[![europa-build-banner.svg]()](https://github.com/neocotic/europa-branding/tree/master/assets/banner/europa-build)
+
+| Type | Sizes | Optimized |
+| ---- | ----- | --------- |
+| image/png | [369x100]() [738x200]() [1476x400]() |  |
+| image/svg+xml | [369x100]() | [europa-build-banner.min.svg]() |
+
 ### Europa Core
 
 [![europa-core-banner.svg]()](https://github.com/neocotic/europa-branding/tree/master/assets/banner/europa-core)
@@ -25,6 +34,15 @@ This document contains references to all assets that are available to be used to
 | image/png | [371x100]() [742x200]() [1484x400]() |  |
 | image/svg+xml | [371x100]() | [europa-core-banner.min.svg]() |
 
+### Europa Node
+
+[![node-europa-banner.svg]()](https://github.com/neocotic/europa-branding/tree/master/assets/banner/node-europa)
+
+| Type | Sizes | Optimized |
+| ---- | ----- | --------- |
+| image/png | [377x100]() [754x200]() [1508x400]() |  |
+| image/svg+xml | [377x100]() | [node-europa-banner.min.svg]() |
+
 ### Europa Test
 
 [![europa-test-banner.svg]()](https://github.com/neocotic/europa-branding/tree/master/assets/banner/europa-test)
@@ -33,15 +51,6 @@ This document contains references to all assets that are available to be used to
 | ---- | ----- | --------- |
 | image/png | [355x100]() [710x200]() [1420x400]() |  |
 | image/svg+xml | [355x100]() | [europa-test-banner.min.svg]() |
-
-### Node Europa
-
-[![node-europa-banner.svg]()](https://github.com/neocotic/europa-branding/tree/master/assets/banner/node-europa)
-
-| Type | Sizes | Optimized |
-| ---- | ----- | --------- |
-| image/png | [377x100]() [754x200]() [1508x400]() |  |
-| image/svg+xml | [377x100]() | [node-europa-banner.min.svg]() |
 
 ## Logos
 
