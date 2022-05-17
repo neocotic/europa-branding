@@ -9,8 +9,8 @@ new issue. Commenting on an existing issue is usually preferred over raising dup
 Please ensure that all files conform to the coding standards, using the same coding style as the rest of the code base.
 Markdown and SVG are considering code here and yes, we often code SVG files by hand.
 
-All pull requests should be made to the `master` branch.
+All pull requests should be made to the `main` branch.
 
 Don't forget to add your details to the list of
-[AUTHORS.md](https://github.com/neocotic/europa-branding/blob/master/AUTHORS.md) if you want your contribution to be
+[AUTHORS.md](https://github.com/neocotic/europa-branding/blob/main/AUTHORS.md) if you want your contribution to be
 recognized by others.

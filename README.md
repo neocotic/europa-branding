@@ -2,13 +2,13 @@
 
 This repository contains branding assets and guidelines for [Europa](https://github.com/neocotic/europa).
 
-1. [Guidelines](https://github.com/neocotic/europa-branding/tree/master/docs/guidelines.md)
-    1. [Fonts](https://github.com/neocotic/europa-branding/tree/master/docs/guidelines.md#fonts)
-2. [Colors](https://github.com/neocotic/europa-branding/tree/master/docs/colors.md)
-    1. [Palette](https://github.com/neocotic/europa-branding/tree/master/docs/colors.md#palette)
-3. [Assets](https://github.com/neocotic/europa-branding/tree/master/docs/assets.md)
-    1. [Banners](https://github.com/neocotic/europa-branding/tree/master/docs/assets.md#banners)
-    2. [Logos](https://github.com/neocotic/europa-branding/tree/master/docs/assets.md#logos)
+1. [Guidelines](https://github.com/neocotic/europa-branding/tree/main/docs/guidelines.md)
+    1. [Fonts](https://github.com/neocotic/europa-branding/tree/main/docs/guidelines.md#fonts)
+2. [Colors](https://github.com/neocotic/europa-branding/tree/main/docs/colors.md)
+    1. [Palette](https://github.com/neocotic/europa-branding/tree/main/docs/colors.md#palette)
+3. [Assets](https://github.com/neocotic/europa-branding/tree/main/docs/assets.md)
+    1. [Banners](https://github.com/neocotic/europa-branding/tree/main/docs/assets.md#banners)
+    2. [Logos](https://github.com/neocotic/europa-branding/tree/main/docs/assets.md#logos)
 
 ## Using Assets
 
@@ -21,7 +21,7 @@ The assets and documentation within this repository are generated using [Brander
 To get started, first clone the repository:
 
 ``` bash
-$ git clone https://github.com/neocotic/europa-branding.git
+$ git clone https://github.com/neocotic/europa-branding.git#main
 $ cd europa-branding
 ```
 

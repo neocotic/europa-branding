@@ -2,14 +2,14 @@
 
 This document contains references to all assets that are available to be used to represent the Europa brand across all spaces.
 
-1. [Banners](https://github.com/neocotic/europa-branding/tree/master/docs/assets.md#banners)
-2. [Logos](https://github.com/neocotic/europa-branding/tree/master/docs/assets.md#logos)
+1. [Banners](https://github.com/neocotic/europa-branding/tree/main/docs/assets.md#banners)
+2. [Logos](https://github.com/neocotic/europa-branding/tree/main/docs/assets.md#logos)
 
 ## Banners
 
 ### Europa
 
-[![europa-banner.svg]()](https://github.com/neocotic/europa-branding/tree/master/assets/banner/europa)
+[![europa-banner.svg]()](https://github.com/neocotic/europa-branding/tree/main/assets/banner/europa)
 
 | Type | Sizes | Optimized |
 | ---- | ----- | --------- |
@@ -18,7 +18,7 @@ This document contains references to all assets that are available to be used to
 
 ### Europa Build
 
-[![europa-build-banner.svg]()](https://github.com/neocotic/europa-branding/tree/master/assets/banner/europa-build)
+[![europa-build-banner.svg]()](https://github.com/neocotic/europa-branding/tree/main/assets/banner/europa-build)
 
 | Type | Sizes | Optimized |
 | ---- | ----- | --------- |
@@ -27,7 +27,7 @@ This document contains references to all assets that are available to be used to
 
 ### Europa Core
 
-[![europa-core-banner.svg]()](https://github.com/neocotic/europa-branding/tree/master/assets/banner/europa-core)
+[![europa-core-banner.svg]()](https://github.com/neocotic/europa-branding/tree/main/assets/banner/europa-core)
 
 | Type | Sizes | Optimized |
 | ---- | ----- | --------- |
@@ -36,7 +36,7 @@ This document contains references to all assets that are available to be used to
 
 ### Europa Node
 
-[![node-europa-banner.svg]()](https://github.com/neocotic/europa-branding/tree/master/assets/banner/node-europa)
+[![node-europa-banner.svg]()](https://github.com/neocotic/europa-branding/tree/main/assets/banner/node-europa)
 
 | Type | Sizes | Optimized |
 | ---- | ----- | --------- |
@@ -45,7 +45,7 @@ This document contains references to all assets that are available to be used to
 
 ### Europa Test
 
-[![europa-test-banner.svg]()](https://github.com/neocotic/europa-branding/tree/master/assets/banner/europa-test)
+[![europa-test-banner.svg]()](https://github.com/neocotic/europa-branding/tree/main/assets/banner/europa-test)
 
 | Type | Sizes | Optimized |
 | ---- | ----- | --------- |
@@ -56,7 +56,7 @@ This document contains references to all assets that are available to be used to
 
 ### Europa
 
-[![europa-logo.svg]()](https://github.com/neocotic/europa-branding/tree/master/assets/logo/europa)
+[![europa-logo.svg]()](https://github.com/neocotic/europa-branding/tree/main/assets/logo/europa)
 
 | Type | Sizes | Optimized |
 | ---- | ----- | --------- |

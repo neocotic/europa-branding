@@ -2,7 +2,7 @@
 
 This document contains the colors that are to be used when representing the Europa brand.
 
-1. [Palette](https://github.com/neocotic/europa-branding/tree/master/docs/colors.md#palette)
+1. [Palette](https://github.com/neocotic/europa-branding/tree/main/docs/colors.md#palette)
 
 ## Palette
 
