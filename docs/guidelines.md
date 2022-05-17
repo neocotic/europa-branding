@@ -1,8 +1,10 @@
 # Guidelines
 
+> The `master` branch has been deprecated. Please view this document on the [`main`](https://github.com/neocotic/europa-branding/tree/main/docs/guidelines.md) branch instead.
+
 This document contains guidelines to be followed when representing the Europa brand.
 
-1. [Fonts](https://github.com/neocotic/europa-branding/tree/main/docs/guidelines.md#fonts)
+1. [Fonts](https://github.com/neocotic/europa-branding/tree/master/docs/guidelines.md#fonts)
 
 ## Fonts
 

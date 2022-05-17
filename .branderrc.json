@@ -162,7 +162,11 @@
         {
           "title": "Europa Branding",
           "type": "template",
-          "content": "This repository contains branding assets and guidelines for [<%= config.title %>](<%= config.homepage %>)."
+          "content": [
+            "> The `master` branch has been deprecated. Please view this document on the [`main`](https://github.com/neocotic/europa-branding/tree/main/README.md) branch instead.",
+            "",
+            "This repository contains branding assets and guidelines for [<%= config.title %>](<%= config.homepage %>)."
+          ]
         },
         {
           "type": "toc",
@@ -190,6 +194,7 @@
             "``` bash",
             "$ git clone <%= config.repository.url %>",
             "$ cd <%= config.repository.name %>",
+            "$ git checkout master",
             "```",
             "",
             "Then install all of the necessary dependencies:",
@@ -215,7 +220,11 @@
       "sections": [
         {
           "type": "template",
-          "content": "This document contains references to all assets that are available to be used to represent the <%= config.title %> brand across all spaces."
+          "content": [
+            "> The `master` branch has been deprecated. Please view this document on the [`main`](https://github.com/neocotic/europa-branding/tree/main/docs/assets.md) branch instead.",
+            "",
+            "This document contains references to all assets that are available to be used to represent the <%= config.title %> brand across all spaces."
+          ]
         },
         {
           "type": "toc",
@@ -262,7 +271,11 @@
       "sections": [
         {
           "type": "template",
-          "content": "This document contains the colors that are to be used when representing the <%= config.title %> brand."
+          "content": [
+            "> The `master` branch has been deprecated. Please view this document on the [`main`](https://github.com/neocotic/europa-branding/tree/main/docs/colors.md) branch instead.",
+            "",
+            "This document contains the colors that are to be used when representing the <%= config.title %> brand."
+          ]
         },
         { "type": "toc" },
         {
@@ -321,7 +334,11 @@
       "sections": [
         {
           "type": "template",
-          "content": "This document contains guidelines to be followed when representing the <%= config.title %> brand."
+          "content": [
+            "> The `master` branch has been deprecated. Please view this document on the [`main`](https://github.com/neocotic/europa-branding/tree/main/docs/guidelines.md) branch instead.",
+            "",
+            "This document contains guidelines to be followed when representing the <%= config.title %> brand."
+          ]
         },
         { "type": "toc" },
         {
