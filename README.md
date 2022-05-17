@@ -21,7 +21,7 @@ The assets and documentation within this repository are generated using [Brander
 To get started, first clone the repository:
 
 ``` bash
-$ git clone https://github.com/neocotic/europa-branding.git#main
+$ git clone https://github.com/neocotic/europa-branding.git
 $ cd europa-branding
 ```
 

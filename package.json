@@ -30,7 +30,7 @@
     "url": "https://github.com/neocotic/europa-branding.git"
   },
   "devDependencies": {
-    "brander": "^0.3.0"
+    "brander": "^0.3.2"
   },
   "scripts": {
     "build": "brander"
