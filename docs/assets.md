@@ -25,6 +25,15 @@ This document contains references to all assets that are available to be used to
 | image/png | [369x100](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-build/europa-build-banner-369x100.png) [738x200](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-build/europa-build-banner-738x200.png) [1476x400](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-build/europa-build-banner-1476x400.png) |  |
 | image/svg+xml | [369x100](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-build/europa-build-banner.svg) | [europa-build-banner.min.svg](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-build/europa-build-banner.min.svg) |
 
+### Europa CLI
+
+[![europa-cli-banner.svg](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-cli/europa-cli-banner.svg)](https://github.com/neocotic/europa-branding/tree/main/assets/banner/europa-cli)
+
+| Type | Sizes | Optimized |
+| ---- | ----- | --------- |
+| image/png | [307x100](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-cli/europa-cli-banner-307x100.png) [614x200](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-cli/europa-cli-banner-614x200.png) [1228x400](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-cli/europa-cli-banner-1228x400.png) |  |
+| image/svg+xml | [307x100](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-cli/europa-cli-banner.svg) | [europa-cli-banner.min.svg](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-cli/europa-cli-banner.min.svg) |
+
 ### Europa Core
 
 [![europa-core-banner.svg](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-core/europa-core-banner.svg)](https://github.com/neocotic/europa-branding/tree/main/assets/banner/europa-core)
