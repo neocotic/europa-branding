@@ -48,6 +48,22 @@
     {
       "task": "convert",
       "input": {
+        "files": "banner/europa-cli/**/*.svg"
+      },
+      "output": {
+        "format": "png"
+      },
+      "options": {
+        "sizes": [
+          "307x100",
+          "614x200",
+          "1228x400"
+        ]
+      }
+    },
+    {
+      "task": "convert",
+      "input": {
         "files": "banner/europa-core/**/*.svg"
       },
       "output": {
@@ -243,6 +259,7 @@
           "titles": {
             "europa-banner.svg": "Europa",
             "europa-build-banner.svg": "Europa Build",
+            "europa-cli-banner.svg": "Europa CLI",
             "europa-core-banner.svg": "Europa Core",
             "europa-test-banner.svg": "Europa Test",
             "node-europa-banner.svg": "Europa Node"
