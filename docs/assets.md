@@ -61,6 +61,15 @@ This document contains references to all assets that are available to be used to
 | image/png | [355x100](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-test/europa-test-banner-355x100.png) [710x200](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-test/europa-test-banner-710x200.png) [1420x400](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-test/europa-test-banner-1420x400.png) |  |
 | image/svg+xml | [355x100](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-test/europa-test-banner.svg) | [europa-test-banner.min.svg](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-test/europa-test-banner.min.svg) |
 
+### Europa Worker
+
+[![europa-worker-banner.svg](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-worker/europa-worker-banner.svg)](https://github.com/neocotic/europa-branding/tree/main/assets/banner/europa-worker)
+
+| Type | Sizes | Optimized |
+| ---- | ----- | --------- |
+| image/png | [440x100](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-worker/europa-worker-banner-440x100.png) [880x200](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-worker/europa-worker-banner-880x200.png) [1760x400](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-worker/europa-worker-banner-1760x400.png) |  |
+| image/svg+xml | [440x100](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-worker/europa-worker-banner.svg) | [europa-worker-banner.min.svg](https://raw.githubusercontent.com/neocotic/europa-branding/main/assets/banner/europa-worker/europa-worker-banner.min.svg) |
+
 ## Logos
 
 ### Europa
